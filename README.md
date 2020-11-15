@@ -1,16 +1,24 @@
-### Hi there 👋
+### 👋 Hi there 
+My name is Uday Korlimarla
 
-<!--
-**udaykor/udaykor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### - 🔭 I’m currently working at Inspektre
+- Founder & CTO
+- A lot of Javascript, servrless, React, GraphQL & Knowledge-Graphs
 
-Here are some ideas to get you started:
+### 💬 Ask me about
+- Application Security
+- Inspektre
+- Cloud WAF/WBAP
+- Javascript & React
+- GraphQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👯 I’m looking to collaborate on ...
+- DevOps / DevSecOps
+- Threatmodeling
+- Application Security
+
+### 🌱 I’m currently learning
+- Graphd Data Science
+
+### 📫 How to reach me
+- ![Twitter](https://twitter.com/favicon.ico) [@udaykorlimarla](https://twitter.com/udaykorlimarla)
