@@ -18,7 +18,7 @@ My name is Uday Korlimarla
 - Application Security
 
 ### 🌱 I’m currently learning
-- Graphd Data Science
+- Graph Data Science
 
 ### 📫 How to reach me
 - ![Twitter](https://twitter.com/favicon.ico) [@udaykorlimarla](https://twitter.com/udaykorlimarla)
