@@ -1,16 +1,21 @@
-### 👋 Hi there 
-My name is Uday Korlimarla
+### Hey there! 👋
 
-### - 🔭 I’m currently working at Inspektre
+I'm Uday Korlimarla
+
+### Inspektre 🔭 
 - Founder & CTO
-- A lot of Javascript, servrless, React, GraphQL & Knowledge-Graphs
+- I create Application Security Knowledge Graphs
+
+![inspektre](https://inspektre.io/logo.png)
 
 ### 💬 Ask me about
 - Application Security
 - Inspektre
 - Cloud WAF/WBAP
-- Javascript & React
+- Javascript, NextJS, React
 - GraphQL
+- Web Application Firewalls
+- Bot Mitigation
 
 ### 👯 I’m looking to collaborate on ...
 - DevOps / DevSecOps
